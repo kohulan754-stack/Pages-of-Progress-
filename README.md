@@ -29,19 +29,6 @@ Each quest has its own report containing the assigned work, important takeaways,
 
 The reports are organised individually so that my work remains easy to access and my progress can be followed over time.
 
-Repository Structure
-
-English-Daily-Quest/
-├── README.md
-├── Quest-01/
-│   └── Report.md
-├── Quest-02/
-│   └── Report.md
-├── Quest-03/
-│   └── Report.md
-└── ...
-
-The structure will be updated as I complete more quests.
 
 My Approach
 
